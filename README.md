@@ -21,6 +21,7 @@
   <a href="https://www.linkedin.com/in/guilherme-faria-de-aguiar-18b6a3272/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+
 ##
 
 ![GuilhermeFaria04 Status](https://github-readme-stats.vercel.app/api?username=GuilhermeFaria04&show_icons=true)
