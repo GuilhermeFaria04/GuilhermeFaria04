@@ -1,4 +1,4 @@
-## Olá! EU sou o Guilherme Faria 04
+## Hello! I am Guilherme Faria
 
 
 - 🌱 I’m currently learning HTML,CSS,JAVA and PYTHON
