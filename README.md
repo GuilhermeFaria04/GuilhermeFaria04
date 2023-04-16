@@ -25,7 +25,7 @@
 ##
 
 ![GuilhermeFaria04 Status](https://github-readme-stats.vercel.app/api?username=GuilhermeFaria04&show_icons=true)
-[![GuilhermeFaria04 wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=GuilhermeFaria04)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeFaria04&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ##
 
