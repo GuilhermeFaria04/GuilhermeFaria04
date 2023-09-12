@@ -1,7 +1,7 @@
 ## Hello! I am Guilherme Faria
 
 
-- 🌱 I’m currently learning HTML,CSS,JAVA and PYTHON
+- 🌱 I’m currently learning HTML,CSS,JAVA,JAVASCRIPT and PYTHON
 - 📫 contact me on email: guilhermefaguiar@gmail.com
 - 😄 Pronouns: He/Him
 
