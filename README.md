@@ -24,5 +24,8 @@
 
 ##
 
-![GuilhermeFaria04 Status](https://github-readme-stats.vercel.app/api?username=GuilhermeFaria04&show_icons=true) <br>
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeFaria04&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+ <img align="left" alt="Guilherme Stats" src="https://github-readme-stats.vercel.app/api?username=GuilhermeFaria04&show_icons=true&theme=radical&count_private=true" />
+ <img align="right" alt="Guilherme GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeFaria04&theme=radical" />
+</div>
+
